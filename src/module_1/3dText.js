@@ -9,7 +9,7 @@ fontLoader.load("/fonts/helvetiker_regular.typeface.json", () => {
   console.log("font loaded");
 });
 
-//Boilerplate Code
+//Boilerplate Code some changes
 const canvas = document.querySelector("canvas.webgl");
 const scene = new THREE.Scene();
 
